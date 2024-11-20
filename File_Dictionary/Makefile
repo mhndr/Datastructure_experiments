@@ -1,2 +1,2 @@
 all:
-	cc ./hashtable.c File_dict.c
+	cc ./hashtable.c sst.c
